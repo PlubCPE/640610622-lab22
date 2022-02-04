@@ -1,3 +1,7 @@
+#include<iostream>
+#include"lab22.h"
+
+using namespace std;
 // Please include header (lab22.h) here.
 
 int main(){
